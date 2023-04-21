@@ -37,6 +37,8 @@ On the Add permissions tab, choose Next.
 
 For Role name, enter a unique name for your role, such as eksClusterRole.
 
+<img width="1210" alt="Screenshot 2023-04-21 at 19 47 13" src="https://user-images.githubusercontent.com/67044030/233724716-516c54bd-20fe-477a-9b28-20f196d4f35c.png">
+
 For Description, enter descriptive text such as Amazon EKS — Cluster role.
 
 Choose Create role.
