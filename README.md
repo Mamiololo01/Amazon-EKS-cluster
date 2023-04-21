@@ -64,6 +64,8 @@ Select Default VPC
 
 For the subnets we will pick any two.
 
+<img width="1269" alt="Screenshot 2023-04-21 at 20 17 35" src="https://user-images.githubusercontent.com/67044030/233725472-1e246c70-b570-4f62-9b42-51868a5a3555.png">
+
 And again for the Security groups pick the default security group.
 
 Leave rest as default and click on Next
