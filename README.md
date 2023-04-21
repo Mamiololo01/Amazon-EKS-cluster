@@ -49,6 +49,8 @@ Choose Create role.
 
 Choose Name
 
+<img width="1204" alt="Screenshot 2023-04-21 at 19 49 21" src="https://user-images.githubusercontent.com/67044030/233725258-84ad2285-5401-4426-a748-26bc0c93563c.png">
+
 Stick with Kubernetes Version 1.25 unless you need to try a different version
 
 Select your cluster service role which you just create.
