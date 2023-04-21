@@ -210,5 +210,12 @@ To view your pod and your label.
 
 kubectl get pod 
 kubectl get pod --show-labels
-Check out the Kubernetes documentation to implement other deployments and designs you would like to test out.
+
+Also dont forget ti destroy the infrastructure
+
+<img width="535" alt="Screenshot 2023-04-21 at 20 47 05" src="https://user-images.githubusercontent.com/67044030/233729278-63cda410-2d7a-435c-9465-2b67051db054.png">
+
+<img width="1164" alt="Screenshot 2023-04-21 at 20 48 00" src="https://user-images.githubusercontent.com/67044030/233729293-46015b26-429f-4e4e-9e90-ed4267444ed6.png">
+
+<img width="956" alt="Screenshot 2023-04-21 at 20 51 27" src="https://user-images.githubusercontent.com/67044030/233729307-6b259b2d-f52c-4396-86e4-c77893221654.png">
 
