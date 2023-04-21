@@ -193,6 +193,9 @@ Replace example_region with the name of the region for like us-east-1.
 Replace cluster_name with the name of the cluster like Demo. Be aware it is caps lock sensitive.
 
 aws eks --region example_region update-kubeconfig --name cluster_name
+
+<img width="873" alt="Screenshot 2023-04-21 at 20 40 51" src="https://user-images.githubusercontent.com/67044030/233728798-4a21bcbf-97c7-436d-8bcc-93bea52aefbd.png">
+
 To see your nodes that you created do the command below
 
 Kubectl get nodes 
