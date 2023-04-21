@@ -43,6 +43,8 @@ For Description, enter descriptive text such as Amazon EKS — Cluster role.
 
 Choose Create role.
 
+<img width="937" alt="Screenshot 2023-04-21 at 19 47 41" src="https://user-images.githubusercontent.com/67044030/233724965-3cb74450-3c12-4044-99a9-ef6d8d93b5e6.png">
+
 2. Configuring the EKS Cluster
 
 Choose Name
