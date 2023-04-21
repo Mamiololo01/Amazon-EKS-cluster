@@ -73,6 +73,12 @@ Leave rest as default and click on Next
 
 For the other steps you can leave as default. Your final page you should look like this:
 
+<img width="1208" alt="Screenshot 2023-04-21 at 20 18 16" src="https://user-images.githubusercontent.com/67044030/233725703-b8347b29-ae74-4789-937c-003db1949613.png">
+
+<img width="1188" alt="Screenshot 2023-04-21 at 20 18 28" src="https://user-images.githubusercontent.com/67044030/233725747-91b607ac-c09e-4932-b4dd-f6153d43081b.png">
+
+<img width="1242" alt="Screenshot 2023-04-21 at 20 19 09" src="https://user-images.githubusercontent.com/67044030/233725787-0cb752f9-5347-40b7-98a4-cb13245351bb.png">
+
 
 Click Create
 
