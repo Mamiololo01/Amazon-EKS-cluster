@@ -88,6 +88,8 @@ Now the EKS cluster can take around 10 minutes for it to start. In the meantime 
 
 3. Create the Node IAM Role
 
+<img width="1269" alt="Screenshot 2023-04-21 at 20 22 22" src="https://user-images.githubusercontent.com/67044030/233726228-8723b33a-1766-4413-a9c8-8da8f102b70b.png">
+
 Similar to how we done before the node also needs permissions to make AWS APIs calls on your behalf. Before we can configure a node we need the permissions for it.
 
 To create your Amazon EKS node role in the IAM console
