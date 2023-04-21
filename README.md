@@ -150,6 +150,8 @@ Choose Create role.
 
 Click on your cluster, go to compute and Add node group.
 
+<img width="1225" alt="Screenshot 2023-04-21 at 20 30 08" src="https://user-images.githubusercontent.com/67044030/233727427-352d9b7d-e8cc-45ff-9ee6-7459fb698345.png">
+
 Give it a name and select the Node IAM role you just created.
 
 Leave the rest as default and Click on next.
