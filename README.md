@@ -128,6 +128,10 @@ In the Filter policies box, enter AmazonEKS_CNI_Policy .
 
 Select the check box to the left of AmazonEKS_CNI_Policy in the search results
 
+<img width="1257" alt="Screenshot 2023-04-21 at 20 28 14" src="https://user-images.githubusercontent.com/67044030/233726720-885af306-b34a-4deb-9fec-c564cd2f54f7.png">
+
+<img width="1257" alt="Screenshot 2023-04-21 at 20 28 25" src="https://user-images.githubusercontent.com/67044030/233726748-e679e864-9b12-45f8-803f-f6d4a6c43053.png">
+
 Choose Next.
 
 On the Name, review, and create page, do the following:
