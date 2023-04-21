@@ -106,6 +106,8 @@ In the Trusted entity type section, choose AWS service.
 
 Under Use case, choose EC2.
 
+<img width="1222" alt="Screenshot 2023-04-21 at 20 22 31" src="https://user-images.githubusercontent.com/67044030/233726401-80f16cce-562f-45c4-8a70-8ad7ff5c29c7.png">
+
 Choose Next.
 
 On the Add permissions page, do the following:
