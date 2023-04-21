@@ -82,6 +82,8 @@ For the other steps you can leave as default. Your final page you should look li
 
 Click Create
 
+<img width="1241" alt="Screenshot 2023-04-21 at 20 21 06" src="https://user-images.githubusercontent.com/67044030/233726054-8208fcf1-2bb2-463c-80d3-eaa9f4696cc2.png">
+
 Now the EKS cluster can take around 10 minutes for it to start. In the meantime we can configure our node IAM Role.
 
 3. Create the Node IAM Role
