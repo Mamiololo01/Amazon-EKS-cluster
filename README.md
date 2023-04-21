@@ -156,6 +156,13 @@ Give it a name and select the Node IAM role you just created.
 
 Leave the rest as default and Click on next.
 
+<img width="1195" alt="Screenshot 2023-04-21 at 20 33 34" src="https://user-images.githubusercontent.com/67044030/233727692-d0d5d152-9a05-4036-b2ac-8ade7955ac8f.png">
+
+<img width="1223" alt="Screenshot 2023-04-21 at 20 35 00" src="https://user-images.githubusercontent.com/67044030/233727716-b8acf1b4-23bc-48d5-a14e-e900d33a7777.png">
+
+
+<img width="1220" alt="Screenshot 2023-04-21 at 20 35 12" src="https://user-images.githubusercontent.com/67044030/233727740-ff7d08b0-1d43-42a9-a3d0-6efe07db4a64.png">
+
 
 For our demo purposes we will just keep this to two nodes. Leave the rest as default.
 
