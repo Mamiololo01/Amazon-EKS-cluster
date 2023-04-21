@@ -204,6 +204,10 @@ To create your own pod in the CLI with a personal label.
 kubectl run firstpod --image=nginx --labels awseks=done
 To view your pod and your label.
 
+<img width="1204" alt="Screenshot 2023-04-21 at 20 44 28" src="https://user-images.githubusercontent.com/67044030/233729062-53d06c6a-5468-4958-b3db-31d6eb194c35.png">
+
+<img width="753" alt="Screenshot 2023-04-21 at 20 46 30" src="https://user-images.githubusercontent.com/67044030/233729093-2d7a6f5f-7305-419a-8b74-521a648bfbca.png">
+
 kubectl get pod 
 kubectl get pod --show-labels
 Check out the Kubernetes documentation to implement other deployments and designs you would like to test out.
