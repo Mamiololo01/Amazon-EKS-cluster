@@ -24,6 +24,8 @@ Choose Roles, then Create role.
 
 Under Trusted entity type, select AWS service.
 
+<img width="1226" alt="Screenshot 2023-04-21 at 19 43 53" src="https://user-images.githubusercontent.com/67044030/233724186-12c0bf7a-6343-4fb4-a1c7-a0fe48ff54b8.png">
+
 From the Use cases for other AWS services dropdown list, choose EKS.
 
 Choose EKS — Cluster for your use case, and then choose Next.
