@@ -144,6 +144,8 @@ Under Add tags (Optional), add metadata to the role by attaching tags as key–v
 
 Choose Create role.
 
+<img width="1209" alt="Screenshot 2023-04-21 at 20 28 54" src="https://user-images.githubusercontent.com/67044030/233727064-856dd9ea-0364-423e-883f-7baede0c8282.png">
+
 4. Configure the Node
 
 Click on your cluster, go to compute and Add node group.
