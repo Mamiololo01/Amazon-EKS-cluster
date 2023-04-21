@@ -33,6 +33,7 @@ Choose EKS — Cluster for your use case, and then choose Next.
 <img width="1226" alt="Screenshot 2023-04-21 at 19 45 04" src="https://user-images.githubusercontent.com/67044030/233724428-ea3a4f56-cfb1-489d-842c-be63fa19cf36.png">
 
 On the Add permissions tab, choose Next.
+<img width="1238" alt="Screenshot 2023-04-21 at 19 46 13" src="https://user-images.githubusercontent.com/67044030/233724555-75a69afc-a02a-4e35-9d99-2f001c789794.png">
 
 For Role name, enter a unique name for your role, such as eksClusterRole.
 
