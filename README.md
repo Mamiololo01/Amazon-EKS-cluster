@@ -174,6 +174,9 @@ Go to next and click on Create.
 
 Now give it a few minute and your node should be up and running.
 
+<img width="1235" alt="Screenshot 2023-04-21 at 20 35 39" src="https://user-images.githubusercontent.com/67044030/233727975-eecf6481-72d9-4557-b8ca-e1d40f35adef.png">
+
+
 We can now create a pod and test our cluster. Lets try this in AWS Cloud Shell
 
 Go the AWS Cloud Shell Icon (near the alarm bell icon). It should start up the AWS CLI
