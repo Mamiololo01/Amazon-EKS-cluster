@@ -176,6 +176,8 @@ Now give it a few minute and your node should be up and running.
 
 <img width="1235" alt="Screenshot 2023-04-21 at 20 35 39" src="https://user-images.githubusercontent.com/67044030/233727975-eecf6481-72d9-4557-b8ca-e1d40f35adef.png">
 
+<img width="1238" alt="Screenshot 2023-04-21 at 20 35 52" src="https://user-images.githubusercontent.com/67044030/233728283-dd53d234-c58e-4e89-9083-88a29c1a076e.png">
+
 
 We can now create a pod and test our cluster. Lets try this in AWS Cloud Shell
 
